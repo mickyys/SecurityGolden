@@ -252,7 +252,7 @@ try {
 						<table border="0" cellpadding="0" cellspacing="0" width="600px" style="height:100%;">
 							<tr>
 								<td align="right" valign="middle" class="textwhite" style="font-size:12px;padding:20px;">
-									<p>Dirección : Villanelo 180 Dpto 1405, Viña del mar
+									<p>Dirección : Luis alberto araya 2022, barrancas, San Antonio
 									<br>Telefono: +56 9 42646473
 									<br>Email: <a href="mailto:contacto@securitygolden.cl">contacto@securitygolden.cl</a>									
 									</p>
@@ -260,7 +260,7 @@ try {
 							</tr>
 							<tr>
 								<td align="center" valign="middle" class="textwhite" style="font-size:12px;padding:20px;">
-									2017 © Security Golden.
+									2018 © Security Golden.
 								</td>
 							</tr>
 						</table>
@@ -504,7 +504,7 @@ try {
 						<table border="0" cellpadding="0" cellspacing="0" width="600px" style="height:100%;">
 							<tr>
 								<td align="right" valign="middle" class="textwhite" style="font-size:12px;padding:20px;">
-									<p>Dirección : Villanelo 180 Dpto 1405, Viña del mar
+									<p>Dirección : Luis alberto araya 2022, barrancas, San Antonio
 									<br>Telefono: +56 9 42646473
 									<br>Email: <a href="mailto:contacto@securitygolden.cl">contacto@securitygolden.cl</a>									
 									</p>
@@ -512,7 +512,7 @@ try {
 							</tr>
 							<tr>
 								<td align="center" valign="middle" class="textwhite" style="font-size:12px;padding:20px;">
-									2017 © Security Golden.
+									2018 © Security Golden.
 								</td>
 							</tr>
 						</table>

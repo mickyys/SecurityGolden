@@ -7,15 +7,15 @@ var ContactUs = function () {
 			$(document).ready(function(){
 			  map = new GMaps({
 				div: '#map',
-	            lat: -33.024019,
-				lng: -71.5571757,
+	            lat: -33.5982288,
+				lng: -71.6126753,
 			  });
 			   var marker = map.addMarker({
-		            lat: -33.024019,
-					lng: -71.5571757,
+		            lat: -33.5982288,
+					lng: -71.6126753,
 		            title: 'Security Golden.',
 		            infoWindow: {
-		                content: "<b>Security Golden.</b><br> Villanelo 180 Dpto. 1405<br>Viña del Mar"
+		                content: "<b>Security Golden.</b><br>Luis alberto araya 2022, barrancas <br> San Antonio"
 		            }
 		        });
 
